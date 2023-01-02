@@ -1,0 +1,10 @@
+1.Github account
+2.Empty github repo
+3.local repo
+4.coomand line -> local repo -> git init
+                                git config --global user.name "akshita..."
+                                git config --global user.email "akshita@83u8..."
+5.add and commmit locally
+6.git remote add origin "http:.............."
+7. git push -u origin master
+(if password required ----> generate token and use it for password)
